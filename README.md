@@ -21,4 +21,5 @@ We can exit from library:
 
 <img width="626" alt="image" src="https://user-images.githubusercontent.com/93597727/171441087-c80aca8f-14b0-4940-93fb-d44ad26abf87.png">
 
-With the borrowing and returning of book a borrower, returner file is created in the directory where python file is present.
+
+Note: With the borrowing and returning of book a borrower, returner file is created in the directory where python file is present.
